@@ -5188,7 +5188,7 @@ const Feed = () => {
                 className="
         d-none d-xxl-block
         h-100
-        fixed-top
+        
         end-0
         overflow-hidden
         scrollbar
